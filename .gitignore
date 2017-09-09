@@ -1,3 +1,2 @@
-./idea
-
-*.exe
+.idea
+src/labd/labd
