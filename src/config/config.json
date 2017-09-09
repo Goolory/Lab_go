@@ -1,0 +1,4 @@
+{
+  "db_name": "mysql",
+  "db_source": "root:xys147852@/labgo?charset=utf8&parseTime=True&loc=Local"
+}
